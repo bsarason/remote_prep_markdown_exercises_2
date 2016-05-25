@@ -1,0 +1,23 @@
+# Where were you born?
+## 1. Born in Oakland.
+###### for real.
+ *Have you any programming experience?*
+1. ~~none whatsoever~~ **A bit.**
+2. For the glamour.
+3. 1 step towards making something rad.
+4.  * Racehorses
+  * crimes
+  * the nightlife
+
+5. newyorker.com, eurogamer.net
+
+---
+Is the above a horizonal rule delimiter?
+
+[This text takes you to the New Yorker](http://www.newyorker.com/)
+
+#### Here's a picture of a massive bunny.
+![local photo](C:\Users\info_user\Pictures\Giant Rabbit.jpg)
+
+#### ***And here's a picture from the web***
+![alt text](http://www.newyorker.com/wp-content/uploads/2016/05/Wellerstein-TheDemonCore1-1200.jpg)
